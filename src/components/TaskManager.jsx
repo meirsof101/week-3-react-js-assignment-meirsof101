@@ -3,7 +3,7 @@ import { useLocalStorage } from '../hooks/useLocalStorage';
 import { useTheme } from '../context/ThemeContext';
 import { Button } from './Button';
 import { Card } from './Card';
-import { TaskItem } from './Taskitem';
+import { TaskItem } from './TaskItem';
 
 export const TaskManager = () => {
   const { isDarkMode, toggleTheme } = useTheme();
