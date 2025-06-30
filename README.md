@@ -24,30 +24,30 @@ A modern, responsive React application built with Vite, featuring dynamic theme 
 
 ### Prerequisites
 - Node.js (v16 or higher)
-- npm or yarn package manager
+- pnpm or yarn package manager
 - Git
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/week-3-react-js-assignment-meirsof101.git
+git clone https://github.com/meirsof101/week-3-react-js-assignment-meirsof101.git
 cd week-3-react-js-assignment-meirsof101
 ```
 
 ### Install Dependencies
 ```bash
-npm install
+pnpm install
 # or
 yarn install
 ```
 
 ### Start Development Server
 ```bash
-npm run dev
+pnpm run dev
 # or
 yarn dev
 ```
 
-The application will be available at `http://localhost:5173`
+The application will be available at `https://effreactapp.vercel.app/`
 
 ## 🏗️ Project Structure
 
@@ -121,16 +121,16 @@ const MyComponent = () => {
 
 ```bash
 # Start development server
-npm run dev
+pnpm run dev
 
 # Build for production
-npm run build
+pnpm run build
 
 # Preview production build
-npm run preview
+pnpm run preview
 
 # Lint code
-npm run lint
+pnpm run lint
 ```
 
 ## 🔧 Configuration
@@ -203,38 +203,20 @@ The application is fully responsive with breakpoints:
 - Mobile menu may need additional accessibility improvements
 - Some animations could be optimized for performance
 
-## 🔮 Future Enhancements
-
-- [ ] Add routing with React Router
-- [ ] Implement localStorage for theme persistence
-- [ ] Add more theme options (system preference detection)
-- [ ] Include unit tests with Jest/React Testing Library
-- [ ] Add internationalization support
-- [ ] Implement PWA features
-
 ## 📄 License
 
 This project is part of the PLP Academy React.js curriculum and is intended for educational purposes.
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/meirsof101)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/fidelmwaro)
-
-## 🙏 Acknowledgments
-
-- PLP Academy for the comprehensive React.js curriculum
-- Tailwind CSS team for the amazing utility framework
-- Vite team for the excellent build tool
-- React community for continuous inspiration
-
----
+**Fidel Mwaro Ngoka**
+- GitHub: [meirsof101](https://github.com/meirsof101)
+- LinkedIn: (https://linkedin.com/in/fidel-ngoka-2979a0195)
 
 ## 📞 Support
 
 If you have any questions or run into issues, please:
-1. Check the [Issues](https://github.com/YOUR_USERNAME/week-3-react-js-assignment-meirsof101/issues) page
+1. Check the [Issues](https://github.com/meirsof101/week-3-react-js-assignment-meirsof101/issues) page
 2. Create a new issue with detailed description
 3. Contact the development team
 
